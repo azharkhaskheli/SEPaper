@@ -15,7 +15,8 @@ public static void main(String args[])throws FileNotFoundException{
 	 System.out.println("*********************************");
 	 System.out.println("Enter The Data to Add into JSON");
 	 System.out.println("*********************************");
-	 
+	
+	 System.out.print ("THE FILE IS CHANGED");
 
 	 System.out.print ("NAME ");
 	 jo.put("name",sc.nextLine().toString());
